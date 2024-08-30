@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create offer and promotion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>823ef8b3-bd87-4d8a-9d6a-082b6fa7b884</testCaseGuid>
+</TestCaseEntity>

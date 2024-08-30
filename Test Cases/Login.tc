@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing login for all the user types - admin, staff, customer</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c057bdc-ec71-4b54-871d-505f472f6ab2</testCaseGuid>
+</TestCaseEntity>
