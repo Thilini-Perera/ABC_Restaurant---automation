@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_CreateOffer/input_Message_m
 WebUI.setText(findTestObject('Object Repository/Page_CreateOffer/input_Code_code'), 'SUMMER20')
 WebUI.setText(findTestObject('Object Repository/Page_CreateOffer/input_Discount_discount'), '20%')
 
-WebUI.click(findTestObject('Object Repository/Page_CreateOffer/input_DatePicker_offerUntil'))  // Click to open the date picker
+WebUI.click(findTestObject('Object Repository/Page_CreateOffer/input_DatePicker_offerUntil'))  
 WebUI.click(findTestObject('Object Repository/Page_CreateOffer/select_Date')) 
 
 WebUI.click(findTestObject('Object Repository/Page_CreateOffer/button_Create'))

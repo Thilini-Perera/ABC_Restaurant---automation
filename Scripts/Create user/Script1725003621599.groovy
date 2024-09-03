@@ -48,5 +48,4 @@ if (isUserCreated) {
 	println('User creation failed.')
 }
 
-// Close the browser
 WebUI.closeBrowser()
